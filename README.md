@@ -1,8 +1,5 @@
 - 👨‍🎓I am Aditya Abhinav, currently embarking on my engineering journey from Jain (Deemed-to-be University), Bengaluru.
-- 💻I am a full-stack web developer, Competitive Programmer as well as 📱ML / AI enthusiast.
+- 💻I am a full-stack web developer.
 - 3⭐ coder on CodeChef
 - I love❤ to make exciting projects.
 - I really enjoy learning🚀 new languages and frameworks like React⚛ and Typescript.
-- I also love python🐍 and machine-learning/artificial-intelligence.
-- 🔭 I’m currently working on a fullstack web app.
-- 🌱 I’m currently learning to build progressive web apps(PWA's).
