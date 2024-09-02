@@ -1,4 +1,4 @@
-- 👨‍🎓I am Aditya Abhinav, currently embarking on my engineering journey from Jain (Deemed-to-be University), Bengaluru.
+- 👨‍🎓I am Aditya Abhinav, a recent CSE graduate from Jain (Deemed-to-be University), Bengaluru.
 - 💻I am a full-stack web developer.
 - 3⭐ coder on CodeChef
 - I love❤ to make exciting projects.
